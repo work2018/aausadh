@@ -1,0 +1,7 @@
+{
+  "name": "aausadh",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
